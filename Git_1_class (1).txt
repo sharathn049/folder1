@@ -1,0 +1,77 @@
+Version control tools
+---------------------
+Git --> 
+---
+Github
+GitLab
+Bitbucket
+
+
+
+svn
+cvs
+TFS
+
+It is used to keep track of versions of files and dirctory.(used to place the code)
+
+
+Developers --> 6 developers --> 
+
+
+flipkart --> 
+
+SDLC life cycle 
+
+1. Gather the requirment
+2. Technologies 
+3. 3 developer --> 1year --> 12 releases  -->  
+call feature
+message
+camera
+recording
+   3 testers  --> 5 months
+
+
+Git commands
+------------
+
+Git clone --> it used to pull the source code from Git repo for the first time.
+
+git clone url
+
+
+git status --> it used to check the file is is staging area or committed area.
+
+touch file1
+
+git add file1
+
+git commit -m "message"
+
+git push url --> it is used to push the changes from local workspace to git remte repository.
+
+git pull --> it used to bring the changes from remote git repository to local workspace
+
+git log --> to check the history of commits.
+git log -1  --> latest commit
+git log -2 --> last 2 commits
+
+Git Architecture
+-----------------
+
+when we create a file it will be in the workspcae, when we ran git add command the file will move from workspace to stagging area, stagging area is intermediate area where we can save the changes, once if we ran git commit it will files from stagging area to git local repo where we can track the git history/commits, once we ran git push it will move from local to remote repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
