@@ -61,7 +61,7 @@ Git Architecture
 
 when we create a file it will be in the workspcae, when we ran git add command the file will move from workspace to stagging area, stagging area is intermediate area where we can save the changes, once if we ran git commit it will files from stagging area to git local repo where we can track the git history/commits, once we ran git push it will move from local to remote repo.
 
-
+ajndsfjaofn
 
 
 
